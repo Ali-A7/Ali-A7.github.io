@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ali Ahmadi"
 title_separator          : "-"
 name                     : &name "Ali Ahmadii"
@@ -26,14 +26,14 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Welcome to my website, this is the website of Mr. Ali Ahmadi, I am a research engineer in Sorbonee University at ISIR Laboratory I am working on Large lnguage models(LLM), Vision Language Models(VLM) and Vision language action models(VLA) to improve humanoid/animonoid medical robot's social navigation/Interaction"
+  location         : "Paris, France"
+  employer         : "University of Sorbonne"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "a7.ahmadi.7@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://www.isir.upmc.fr/personnel/ahmadi/"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Ali-A7"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
