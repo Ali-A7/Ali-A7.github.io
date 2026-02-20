@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ali Ahmadi"
 title_separator          : "-"
-name                     : &name "Ali Ahmadii"
+name                     : &name "Ali Ahmadi"
 description              : &description "Ali Ahmadiii"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Ali-A7.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,8 +24,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Ali Ahmadi"
+  pronouns         : # example: "he/him"  
   bio              : "Welcome to my website, this is the website of Mr. Ali Ahmadi, I am a research engineer in Sorbonee University at ISIR Laboratory I am working on Large lnguage models(LLM), Vision Language Models(VLM) and Vision language action models(VLA) to improve humanoid/animonoid medical robot's social navigation/Interaction"
   location         : "Paris, France"
   employer         : "University of Sorbonne"
@@ -52,7 +52,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/Ali-A7"
-  kaggle           : # Username  
+  kaggle           : "https://www.kaggle.com/aliahmadi76"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
