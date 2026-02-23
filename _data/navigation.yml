@@ -31,3 +31,15 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
+    main:
+  - title: "About"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Experiences"
+    url: /Experiences/
+  - title: "Projects"
+    url: /Projects/
+  - title: "Awards and Certificate"
+    url: /Awards/
