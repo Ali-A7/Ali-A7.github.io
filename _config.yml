@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/1123.png"
+  avatar           : "images/1123.jpg"
   name             : "Ali Ahmadi"
   pronouns         : # example: "he/him"  
   bio              : ""
