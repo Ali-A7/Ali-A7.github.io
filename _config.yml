@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ali Ahmadi"
 title_separator          : "-"
 name                     : &name "Ali Ahmadi"
@@ -26,7 +26,7 @@ author:
   avatar           : "1123.png"
   name             : "Ali Ahmadi"
   pronouns         : # example: "he/him"  
-  bio              : "Welcome to my website, this is the website of Mr. Ali Ahmadi, I am a research engineer in Sorbonee University at ISIR Laboratory I am working on Large lnguage models(LLM), Vision Language Models(VLM) and Vision language action models(VLA) to improve humanoid/animonoid medical robot's social navigation/Interaction"
+  bio              : ""
   location         : "Paris, France"
   employer         : "University of Sorbonne"
   uri              : # URL
@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : "https://www.isir.upmc.fr/personnel/ahmadi/"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
