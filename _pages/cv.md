@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV (PDF)]({{ base_path }}files/Resume-Ali-Ahmadi-PhD-AI-Robotic.pdf)
+[Download CV (PDF)]({{ base_path }}/files/Resume-Ali-Ahmadi-PhD-AI-Robotic.pdf)
 
 ALI AHMADI
 ======
