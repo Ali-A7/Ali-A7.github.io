@@ -7,14 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-Projects
+
 ======
 
-- **Master Thesis — PPO RL for Exoskeleton Control (2024)**  
-  Built an LSTM-based learned simulator and trained a PPO agent; improved stability via episode design, action constraints, and reward shaping. 
+- **Sorbonne University-ISIR Lab - Designing and Developing VLM/VLA Architecture for Robot Navigation(2026)**
+- Developing and Enhancing Controller Architecture Using Vision Language Models(VLM)and Vision Language Action Models(VLA) to Improve Navigation of Humanoid/Animonoid Medical Robot
 
 - **Sanofi — Microscopy ROI Analysis Pipeline (2025)**  
   Built a modular Python pipeline for ROI-based microscopy image analysis on large datasets; automated analysis and visualization of multi-channel QPTIFF slides. 
+
+- **Master Thesis — PPO RL for Exoskeleton Control (2024)**  
+  Built an LSTM-based learned simulator and trained a PPO agent; improved stability via episode design, action constraints, and reward shaping. 
 
 - **Transformer-based OCR (ENS Paris-Saclay, 2024)**  
   Explored TrOCR for image-to-text conversion using transformer-based vision-language architectures. 
