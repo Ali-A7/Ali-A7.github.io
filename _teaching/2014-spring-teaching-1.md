@@ -4,7 +4,7 @@ collection: teaching assistant and Project management in cours of Programming C+
 type: "Undergraduate course"
 permalink: 
 venue: "Ferdowsi University of Mashhad, Department of Electrical Engineering"
-date: 2018-2019
+date: 2019-01-01
 location: ""
 ---
 
